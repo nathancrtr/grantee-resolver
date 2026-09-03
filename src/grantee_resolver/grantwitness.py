@@ -41,14 +41,19 @@ def fetch(agency: str, dest_dir: Path, live: bool = False, tag: str = PINNED_REL
     r.raise_for_status()
     path = dest_dir / f"{agency}.csv"
     path.write_bytes(r.content)
-    source_path(path).write_text(json.dumps({
+    record = {
         "agency": agency,
         "url": url,
         "release": None if live else tag,
-        "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "sha256": hashlib.sha256(r.content).hexdigest(),
         "bytes": len(r.content),
-    }, indent=1) + "\n")
+    }
+    # Only rewrite the sidecar when the bytes or their source actually changed, so a
+    # nightly re-fetch of unchanged data does not commit a new timestamp every day.
+    prev = source(path)
+    if {k: prev.get(k) for k in record} != record:
+        record["first_seen"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        source_path(path).write_text(json.dumps(record, indent=1) + "\n")
     return path
 
 

@@ -2,7 +2,7 @@
  "agency": "samhsa",
  "url": "https://raw.githubusercontent.com/signaltrack/gw-data/2026-08-26.6/data/samhsa.csv",
  "release": "2026-08-26.6",
- "fetched_at": "2026-09-03T23:29:34+00:00",
  "sha256": "b6c503cbaf6e101bb69492c857b161cb5ce76fc50f5310ac18c3fb2eb3608aa5",
- "bytes": 9647671
+ "bytes": 9647671,
+ "first_seen": "2026-09-03T23:32:19+00:00"
 }
