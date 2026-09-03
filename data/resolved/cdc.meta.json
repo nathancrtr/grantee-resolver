@@ -1,0 +1,20 @@
+{
+ "agency": "cdc",
+ "rows": 580,
+ "uei_found": 577,
+ "tiers": {
+  "GOV": 417,
+  "YES": 105,
+  "NO": 21,
+  "MAYBE": 5,
+  "NA": 32
+ },
+ "grant_witness_source": {
+  "agency": "cdc",
+  "url": "https://raw.githubusercontent.com/signaltrack/gw-data/2026-08-26.6/data/cdc.csv",
+  "release": "2026-08-26.6",
+  "fetched_at": "2026-09-03T23:26:49+00:00",
+  "sha256": "cba2566f16042d3822d3075ca69a63734de7338b49846980fffec3f19776b64d",
+  "bytes": 1488072
+ }
+}

@@ -31,24 +31,31 @@ def cmd_taggs(args):
 
 def cmd_gw(args):
     for a in args.agencies:
-        p = grantwitness.fetch(a, DATA / "grantwitness")
-        print(a, p)
+        p = grantwitness.fetch(a, DATA / "grantwitness", live=args.live, tag=args.tag)
+        print(json.dumps(grantwitness.source(p), indent=1))
 
 
 def cmd_resolve(args):
     gw_path = DATA / "grantwitness" / f"{args.agency}.csv"
     if not gw_path.exists():
-        grantwitness.fetch(args.agency, DATA / "grantwitness")
+        grantwitness.fetch(args.agency, DATA / "grantwitness", live=args.live, tag=args.tag)
     stats = resolve.resolve(args.agency, gw_path, DATA / "cache", DATA / "resolved" / f"{args.agency}.csv", args.limit)
     print(json.dumps(stats, indent=1))
+
+
+def _gw_source_args(p):
+    p.add_argument("--live", action="store_true", help="fetch from grantwitness.org instead of the pinned release")
+    p.add_argument("--tag", default=grantwitness.PINNED_RELEASE, help="gw-data release tag to fetch")
 
 
 def main():
     ap = argparse.ArgumentParser(prog="grantee")
     sub = ap.add_subparsers(required=True)
     s = sub.add_parser("taggs", help="snapshot + diff the HHS terminated-grants PDF"); s.set_defaults(fn=cmd_taggs)
-    s = sub.add_parser("gw", help="fetch Grant Witness tables"); s.add_argument("agencies", nargs="*", default=["cdc"]); s.set_defaults(fn=cmd_gw)
-    s = sub.add_parser("resolve", help="resolve a Grant Witness table to UEI/EIN"); s.add_argument("agency"); s.add_argument("--limit", type=int); s.set_defaults(fn=cmd_resolve)
+    s = sub.add_parser("gw", help="fetch Grant Witness tables from the pinned gw-data release")
+    s.add_argument("agencies", nargs="*", default=["cdc"]); _gw_source_args(s); s.set_defaults(fn=cmd_gw)
+    s = sub.add_parser("resolve", help="resolve a Grant Witness table to UEI/EIN")
+    s.add_argument("agency"); s.add_argument("--limit", type=int); _gw_source_args(s); s.set_defaults(fn=cmd_resolve)
     args = ap.parse_args()
     args.fn(args)
 

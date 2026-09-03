@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import csv
+import json
 from collections import defaultdict
 from pathlib import Path
 
@@ -51,4 +52,13 @@ def resolve(agency: str, gw_path: Path, cache_dir: Path, out_path: Path, limit: 
         w = csv.DictWriter(f, fieldnames=OUT_COLUMNS)
         w.writeheader()
         w.writerows(out)
-    return {"rows": len(out), "uei_found": sum(1 for o in out if o["uei"]), "tiers": dict(tiers)}
+    stats = {
+        "agency": agency,
+        "rows": len(out),
+        "uei_found": sum(1 for o in out if o["uei"]),
+        "tiers": dict(tiers),
+        "grant_witness_source": grantwitness.source(gw_path),
+    }
+    # The upstream CSV is not committed, so record which snapshot produced this output.
+    out_path.with_suffix(".meta.json").write_text(json.dumps(stats, indent=1) + "\n")
+    return stats
