@@ -1,7 +1,7 @@
 """USAspending.gov award lookups, cached on disk.
 
 GET /api/v2/awards/{generated_unique_award_id}/ returns the recipient's UEI, business
-categories, and address. This is the deterministic half of the identity join.
+categories, and address. The award id is an exact key, so this step needs no matching.
 """
 from __future__ import annotations
 

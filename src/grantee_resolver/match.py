@@ -3,7 +3,7 @@
 A simplified port of the cascade in Nonprofit Open Data Collective's `npmatch`:
 normalize -> block on state -> score name similarity + geographic agreement ->
 veto rules -> tier YES / MAYBE / NO. Every match carries its score and the
-matched BMF name so a human can audit it. No model is involved.
+matched BMF name so a human can audit it.
 """
 from __future__ import annotations
 
