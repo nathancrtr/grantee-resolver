@@ -1,0 +1,10 @@
+Data in this directory produced by this project (data/resolved/, data/taggs/) is
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Upstream inputs keep their own terms:
+- data/taggs/: derived from the HHS TAGGS "Grants Terminated" PDF (U.S. Government work).
+- data/grantwitness/: mirrored from Grant Witness (https://grantwitness.org). No license
+  is stated upstream as of 2026-09-03; mirrored here for reproducibility only, pending
+  a conversation with the maintainers. Do not redistribute separately.
+- USAspending.gov and IRS Exempt Organizations Business Master File: U.S. Government works.
