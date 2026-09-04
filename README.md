@@ -11,8 +11,11 @@ EPA. This project keys on their Award IDs and adds organization identifiers, add
 congressional district, NTEE category, and reported revenue, so a lost award can be
 compared to the size of the organization that lost it.
 
-**Status (2026-09-03):** first pass. CDC file resolved; match tiers are auditable but not
-yet human-reviewed. Nothing here has been validated by the Grant Witness maintainers.
+**Status (2026-09-04):** CDC file resolved and hand-checked. Every YES, MAYBE and NO row
+was read against its IRS record; the veto rules that came out of that are in
+`data/resolved/README.md` with the residual verdicts. The nightly snapshot has run once and
+diffed clean against the first. Nothing here has been validated by the Grant Witness
+maintainers.
 
 ## Principles
 
@@ -37,7 +40,7 @@ Grant Witness CSV ──▶ USAspending award API ──▶ UEI, business catego
 ## Usage
 
 ```sh
-python -m venv .venv && .venv/bin/pip install -e .
+python -m venv .venv && .venv/bin/pip install -e ".[dev]"
 .venv/bin/grantee taggs            # download, parse, snapshot, diff against the previous snapshot
 .venv/bin/grantee gw cdc samhsa    # fetch Grant Witness tables
 .venv/bin/grantee resolve cdc      # write data/resolved/cdc.csv
@@ -66,11 +69,16 @@ Pass `--live` to pull from grantwitness.org instead, or `--tag` for a one-off re
 
 | Tier | Meaning |
 |---|---|
-| `YES` | Normalized name identical in-state; or similarity ≥ 0.97 with city match; or ≥ 0.93 with ZIP match |
-| `MAYBE` | Name similarity ≥ 0.88; needs a human look |
-| `NO` | No IRS record scored ≥ 0.80 in that state |
+| `YES` | Normalized name identical in-state (governance words like "Regents of" ignored); or similarity ≥ 0.97 with city match; or ≥ 0.93 with ZIP match |
+| `MAYBE` | Name similarity ≥ 0.88, or one name is a word-subset of the other; needs a human look |
+| `NO` | Nothing survived the veto rules. `ein` is blank; `bmf_name` shows the closest rejected candidate |
 | `GOV` | Recipient looks like a government entity; not expected in the BMF |
-| `NA` | No usable name or state |
+| `FOREIGN` | Recipient located outside the US; not in the BMF |
+| `NA` | No usable name, or a state code the IRS publishes no file for |
+
+Veto rules (university foundations, alumni associations, chapters, governance words,
+low word overlap) and the hand-check that produced them are documented in
+`data/resolved/README.md`. Each rule has a regression test: `.venv/bin/python -m pytest`.
 
 ## Licenses
 
