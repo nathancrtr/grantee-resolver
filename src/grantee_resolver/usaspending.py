@@ -45,6 +45,7 @@ def recipient_fields(award: dict | None) -> dict:
         "business_categories": "|".join(rec.get("business_categories") or []),
         "usasp_city": loc.get("city_name"),
         "usasp_state": loc.get("state_code"),
+        "usasp_country": loc.get("location_country_code"),
         "usasp_zip5": loc.get("zip5"),
         "usasp_county": loc.get("county_name"),
         "usasp_congressional": loc.get("congressional_code"),

@@ -1,2 +1,0 @@
-[console_scripts]
-grantee = grantee_resolver.cli:main

@@ -6,3 +6,4 @@ data/cache/*.pdf
 # Mirrored Grant Witness tables: fetched at run time, provenance kept in *.source.json
 data/grantwitness/*.csv
 .env
+*.egg-info/

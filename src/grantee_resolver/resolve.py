@@ -11,7 +11,7 @@ from . import bmf, grantwitness, match, usaspending
 OUT_COLUMNS = [
     "award_id", "agency", "detailed_status", "grantee_organization", "grantee_state", "grantee_city",
     "grantee_org_type", "usasp_award_id", "usasp_recipient_name", "uei", "parent_uei", "parent_name",
-    "business_categories", "usasp_address", "usasp_city", "usasp_state", "usasp_zip5", "usasp_county",
+    "business_categories", "usasp_address", "usasp_city", "usasp_state", "usasp_country", "usasp_zip5", "usasp_county",
     "usasp_congressional", "usasp_pop_end", "ein", "bmf_name", "bmf_city", "bmf_zip5", "ntee", "bmf_revenue",
     "match_tier", "match_name_score", "match_geo_score", "match_method",
 ]
@@ -21,7 +21,7 @@ def resolve(agency: str, gw_path: Path, cache_dir: Path, out_path: Path, limit: 
     rows = grantwitness.load(gw_path)
     if limit:
         rows = rows[:limit]
-    bmf_by_state: dict[str, list[dict]] = {}
+    bmf_by_state: dict[str, list[dict] | None] = {}
     out: list[dict] = []
     tiers: dict[str, int] = defaultdict(int)
     for r in rows:
@@ -31,19 +31,25 @@ def resolve(agency: str, gw_path: Path, cache_dir: Path, out_path: Path, limit: 
         name = rf.get("usasp_recipient_name") or r.get("Grantee Organization")
         st = rf.get("usasp_state") or r.get("Grantee State")
         m = match.Match(None, None, None, None, None, None, 0, 0, "NA", "no-state")
-        if st and len(st) == 2 and st != "N/A":
+        country = rf.get("usasp_country")
+        if country and country != "USA":
+            # The BMF only lists organizations with a US filing; do not search it.
+            m = match.Match(None, None, None, None, None, None, 0, 0, "FOREIGN", f"non-us-recipient:{country}")
+        elif st and len(st) == 2 and st != "N/A":
             if st not in bmf_by_state:
                 try:
                     bmf_by_state[st] = bmf.load_state(st, cache_dir / "bmf")
                 except Exception:
-                    bmf_by_state[st] = []
-            m = match.best_match(name, rf.get("usasp_city"), rf.get("usasp_zip5"), bmf_by_state[st], rf.get("business_categories", ""))
+                    bmf_by_state[st] = None   # the IRS publishes no file for this code (e.g. FM, MH, PW)
+            m = match.best_match(name, rf.get("usasp_city"), rf.get("usasp_zip5"), bmf_by_state[st] or [], rf.get("business_categories", ""))
+            if bmf_by_state[st] is None and m.tier == "NO":
+                m = match.Match(None, None, None, None, None, None, 0, 0, "NA", f"no-bmf-file-for-state:{st}")
         tiers[m.tier] += 1
         out.append({
             "award_id": r.get("Award ID"), "agency": agency, "detailed_status": r.get("Detailed Status"),
             "grantee_organization": r.get("Grantee Organization"), "grantee_state": r.get("Grantee State"),
             "grantee_city": r.get("Grantee City"), "grantee_org_type": r.get("Grantee Organization Type"),
-            **{k: rf.get(k) for k in ("usasp_award_id", "usasp_recipient_name", "uei", "parent_uei", "parent_name", "business_categories", "usasp_address", "usasp_city", "usasp_state", "usasp_zip5", "usasp_county", "usasp_congressional", "usasp_pop_end")},
+            **{k: rf.get(k) for k in ("usasp_award_id", "usasp_recipient_name", "uei", "parent_uei", "parent_name", "business_categories", "usasp_address", "usasp_city", "usasp_state", "usasp_country", "usasp_zip5", "usasp_county", "usasp_congressional", "usasp_pop_end")},
             "ein": m.ein, "bmf_name": m.bmf_name, "bmf_city": m.bmf_city, "bmf_zip5": m.bmf_zip5, "ntee": m.ntee, "bmf_revenue": m.revenue,
             "match_tier": m.tier, "match_name_score": m.name_score, "match_geo_score": m.geo_score, "match_method": m.method,
         })
