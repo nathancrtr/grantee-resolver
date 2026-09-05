@@ -1,0 +1,2035 @@
+{
+ "added": [
+  {
+   "opdiv": "NIH",
+   "fain": "K08AR080266",
+   "obligation_doc": "KAR080266A",
+   "recipient": "UNIVERSITY OF PENNSYLVANIA",
+   "state": "Pennsylvania",
+   "country": "UNITED STATES",
+   "action_date": "08/26/2026",
+   "obligated": "$173,340.00",
+   "expended": "$53,439.00",
+   "paid": "$53,439.00",
+   "unliquidated": "$119,901.00",
+   "title": "Asymmetric cell division for fate commitment of human T cells",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "48"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30HD107912",
+   "obligation_doc": "FHD107912A",
+   "recipient": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+   "state": "New Jersey",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "$26,184.00",
+   "expended": "$23,325.00",
+   "paid": "$23,325.00",
+   "unliquidated": "$2,859.00",
+   "title": "Caesarean Delivery's Effect on the Early Life Microbiome and Neurodevelopment",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "25"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F32HD112173",
+   "obligation_doc": "FHD112173A",
+   "recipient": "EMORY UNIVERSITY",
+   "state": "Georgia",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Restoring Dexterous Hand Function with Artificial Neural Network-Based Brain-Computer Interfaces",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "44"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30AI160828",
+   "obligation_doc": "FAI160828A",
+   "recipient": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+   "state": "Colorado",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Defining viral-host interactions between arthritogenic alphaviruses and MARCO",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "24"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R21CA286977",
+   "obligation_doc": "RCA286977A",
+   "recipient": "WAKE FOREST UNIVERSITY HEALTH SCIENCES",
+   "state": "North Carolina",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "ATP-responsive Nanoparticles for Reversal of Immune Evasion in Breast Cancer",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "72"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30AI179084",
+   "obligation_doc": "FAI179084A",
+   "recipient": "MEDICAL COLLEGE OF WISCONSIN, INC",
+   "state": "Wisconsin",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Bottom-up and top-down computational modeling approaches to study CMV retinitis",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "24"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31HL178305",
+   "obligation_doc": "FHL178305A",
+   "recipient": "UNIVERSITY OF WISCONSIN SYSTEM/BOARD OF REGENTS",
+   "state": "Wisconsin",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Role of Cardiac Proteoform Alterations in the Pathogenesis of Phospholamban R14del Cardiomyopathy",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "39"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30HL159915",
+   "obligation_doc": "FHL159915A",
+   "recipient": "UNIVERSITY OF PITTSBURGH, THE",
+   "state": "Pennsylvania",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Age-dependent differences in the immune response to human metapneumovirus",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "26"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31HD114398",
+   "obligation_doc": "FHD114398A",
+   "recipient": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "$20,138.00",
+   "expended": "$9,742.00",
+   "paid": "$9,742.00",
+   "unliquidated": "$10,396.00",
+   "title": "PreoP-SSI: Prediction and prevention of pediatric surgical site infections",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "37"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R15GM160942",
+   "obligation_doc": "RGM160942A",
+   "recipient": "NORTH DAKOTA STATE UNIVERSITY",
+   "state": "North Dakota",
+   "country": "UNITED STATES",
+   "action_date": "08/26/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Sigma-regulator recognition and activation of regulated intramembrane proteolysis by a site-1 protease during iron import cell surface signaling in Gram-negative bacteria.",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "71"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R44NS132698",
+   "obligation_doc": "RNS132698A",
+   "recipient": "ACURASTEM INCORPORATED",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Development of an UNC13A antisense oligonucleotide treatment for ALS and FTD",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "81"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AG082446",
+   "obligation_doc": "FAG082446A",
+   "recipient": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Relationships between sulcal morphology, neuropathology, and cognition in aging and Alzheimer's disease",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "27"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "K24HL163393",
+   "obligation_doc": "KHL163393A",
+   "recipient": "CORNELL UNIVERSITY, MEDICAL COLLEGE",
+   "state": "New York",
+   "country": "UNITED STATES",
+   "action_date": "08/11/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Global Health Research and Training in Cardiovascular Disease",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "49"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI181098",
+   "obligation_doc": "FAI181098A",
+   "recipient": "HARVARD UNIVERSITY MEDICAL SCHOOL",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Molecular basis of cyclic-di-AMP regulation in Gram- positive bacteria",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "29"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F32HL168826",
+   "obligation_doc": "FHL168826A",
+   "recipient": "UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CTR DALLAS",
+   "state": "Texas",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Low-energy cooling strategies to reduce the thermal, cardiovascular, and renal consequences of heat waves in the elderly.",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "44"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31DK138752",
+   "obligation_doc": "FDK138752A",
+   "recipient": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Dissecting the Role of Peroxisomal PEX Family Proteins in Hepatic Bile Acid and Lipid Metabolism",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "35"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "K24AI114996",
+   "obligation_doc": "KAI114996B",
+   "recipient": "UNIVERSITY OF MARYLAND BALTIMORE PROFESSIONAL SCHOOLS",
+   "state": "Maryland",
+   "country": "UNITED STATES",
+   "action_date": "08/26/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Mentoring in patient-oriented research in global health",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "49"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01NS131662",
+   "obligation_doc": "RNS131662A",
+   "recipient": "WINIFRED MASTERSON BURKE MEDICAL RESCH INSTITUTE, INC",
+   "state": "New York",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "$576,532.00",
+   "expended": "$257,974.00",
+   "paid": "$257,974.00",
+   "unliquidated": "$318,558.00",
+   "title": "Transcriptional Regulation Over Neurogenesis of Cortical Output Neuron Segmental Identity and Diversity",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "70"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI178999",
+   "obligation_doc": "FAI178999A",
+   "recipient": "UNIVERSITY OF LOUISVILLE RESEARCH FOUNDATION",
+   "state": "Kentucky",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Defining the impact of Extracellular Vesicles on inflammation during pneumonic plague",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "29"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AG092224",
+   "obligation_doc": "FAG092224A",
+   "recipient": "NORTHWESTERN UNIVERSITY",
+   "state": "Illinois",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Web Application Use to Support Language and Communication in Primary Progressive Aphasia",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "28"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30AI176712",
+   "obligation_doc": "FAI176712A",
+   "recipient": "VANDERBILT UNIVERSITY",
+   "state": "Tennessee",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "$33,193.00",
+   "expended": "$32,777.00",
+   "paid": "$32,777.00",
+   "unliquidated": "$416.00",
+   "title": "QTL mapping with Collaborative Cross mice defines genes that promote allergic airway inflammation",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "24"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "K01AI182503",
+   "obligation_doc": "KAI182503A",
+   "recipient": "JOHNS HOPKINS UNIVERSITY",
+   "state": "Maryland",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Integrating genomic and spatial insights on Mtb transmission into policy-relevant models",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "46"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F32AI181516",
+   "obligation_doc": "FAI181516A",
+   "recipient": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "state": "North Carolina",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Rho dependent regulation of Clostridioides difficile virulence",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "43"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F32DK142455",
+   "obligation_doc": "FDK142455A",
+   "recipient": "Regents of the University of Michigan",
+   "state": "Michigan",
+   "country": "UNITED STATES",
+   "action_date": "08/29/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "HIF regulation of Ammonia Processing and Fibrosis in MASLD/MASH",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "43"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31DK139736",
+   "obligation_doc": "FDK139736A",
+   "recipient": "MEDICAL UNIVERSITY OF SOUTH CAROLINA THE",
+   "state": "South Carolina",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Elucidating the role of Myosin 5b in microvilli assembly and in the setting of inflammation",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "35"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI189485",
+   "obligation_doc": "FAI189485A",
+   "recipient": "UNIVERSITY OF CALIFORNIA, DAVIS",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "$30,963.00",
+   "expended": "$24,933.00",
+   "paid": "$24,933.00",
+   "unliquidated": "$6,030.00",
+   "title": "Utilizing a Novel Skin-on-a-Chip Model to Investigate Extramedullary Granulopoiesis and Immune Responses in Human Skin",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "30"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI181362",
+   "obligation_doc": "FAI181362A",
+   "recipient": "UNIVERSITY OF KANSAS MEDICAL CENTER RESEARCH INSTITUTE",
+   "state": "Kansas",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Characterization of the Staphylococcus aureus fatty acid degradation pathway",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "29"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30AG081091",
+   "obligation_doc": "FAG081091A",
+   "recipient": "UNIVERSITY OF ILLINOIS AT CHICAGO",
+   "state": "Illinois",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Evaluating autophagy modulation as a therapeutic strategy for Alzheimer's Disease using human neuronal culture models",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "24"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01HL157039",
+   "obligation_doc": "RHL157039A",
+   "recipient": "Research Institute at Nationwide`s Children`s Hospital",
+   "state": "Ohio",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Tissue-engineered trachea composites for long- segment airway replacement",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "64"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30HL178229",
+   "obligation_doc": "FHL178229A",
+   "recipient": "BAYLOR COLLEGE OF MEDICINE",
+   "state": "Texas",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Elucidating the role of translational control in hematopoietic stem cell quiescence",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "26"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30HD111284",
+   "obligation_doc": "FHD111284A",
+   "recipient": "HARVARD UNIVERSITY MEDICAL SCHOOL",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "$30,716.00",
+   "expended": "$30,716.00",
+   "paid": "$30,716.00",
+   "unliquidated": "-",
+   "title": "Leveraging Causal Inference and Machine Learning Methods to Advance Evidence-Based Maternal Care and Improve Newborn Health Outcomes",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "25"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30HL165806",
+   "obligation_doc": "FHL165806A",
+   "recipient": "UNIVERSITY OF UTAH",
+   "state": "Utah",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "A novel mechanism of mitochondrial protein turnover in Complex I deficient mitochondrial cardiomyopathy",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "26"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI186326",
+   "obligation_doc": "FAI186326A",
+   "recipient": "HARVARD UNIVERSITY MEDICAL SCHOOL",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Elucidation of JUNV GPC Structure and Molecular Mechanisms of Escape from Humoral Immunity",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "29"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31MH134720",
+   "obligation_doc": "FMH134720A",
+   "recipient": "MEDICAL COLLEGE OF WISCONSIN, INC",
+   "state": "Wisconsin",
+   "country": "UNITED STATES",
+   "action_date": "04/02/2025",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Understanding HIV testing, HIV care engagement, and the implementation of HIV prevention strategies for priority populations in the Southern United States",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "40"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01NS136711",
+   "obligation_doc": "RNS136711A",
+   "recipient": "WINIFRED MASTERSON BURKE MEDICAL RESCH INSTITUTE, INC",
+   "state": "New York",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "$519,166.00",
+   "expended": "$54,105.00",
+   "paid": "$54,105.00",
+   "unliquidated": "$465,061.00",
+   "title": "The Role of Corticospinal Neurons in the Recovery of Dexterous Forelimb Function After Spinal Cord Injury",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "70"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31HL172674",
+   "obligation_doc": "FHL172674A",
+   "recipient": "Regents of the University of Michigan",
+   "state": "Michigan",
+   "country": "UNITED STATES",
+   "action_date": "08/31/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Defining the metabolic regulation of erythropoiesis",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "39"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F32HL176048",
+   "obligation_doc": "FHL176048A",
+   "recipient": "UNIVERSITY OF FLORIDA",
+   "state": "Florida",
+   "country": "UNITED STATES",
+   "action_date": "08/31/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Cellular Mechanisms of Acute-Intermittent Hypercapnic-Hypoxia Induced Phrenic Motor Plasticity",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "45"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01DK140323",
+   "obligation_doc": "RDK140323A",
+   "recipient": "CHILDREN'S HOSPITAL LOS ANGELES",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "07/20/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Activation of deep crypt secretory cells in colonic inflammation",
+   "termination_type": "Termination for Cause",
+   "for_cause": "X",
+   "source_page": "61"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AG096955",
+   "obligation_doc": "FAG096955A",
+   "recipient": "PENNSYLVANIA STATE UNIVERSITY, THE",
+   "state": "Pennsylvania",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "The influence of estrogen on the thermoregulatory responses to heat stress in pre and postmenopausal women",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "28"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30AG079491",
+   "obligation_doc": "FAG079491A",
+   "recipient": "ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI",
+   "state": "New York",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Transcriptional regulation of neuroprotective microglia subtypes in health and disease",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "24"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30HL162128",
+   "obligation_doc": "FHL162128A",
+   "recipient": "HARVARD UNIVERSITY MEDICAL SCHOOL",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "08/31/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Structure and Function of the VWF Helical Tubule Required for Hemostasis",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "26"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30DK138640",
+   "obligation_doc": "FDK138640A",
+   "recipient": "YALE UNIV",
+   "state": "Connecticut",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Investigating the role of endothelial Gimap5 in maintaining liver homeostasis",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "25"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31DC021888",
+   "obligation_doc": "FDC021888A",
+   "recipient": "UNIVERSITY OF FLORIDA",
+   "state": "Florida",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "$17,952.00",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "$17,952.00",
+   "title": "Basolateral amygdala support of odor valence learning",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "33"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01NS132674",
+   "obligation_doc": "RNS132674A",
+   "recipient": "UNIVERSITY OF NEW ENGLAND",
+   "state": "Maine",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "HIV Tat-associated Sensory Neuropathy and the Contribution of Toll-like Receptor Pathway",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "70"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI181452",
+   "obligation_doc": "FAI181452A",
+   "recipient": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+   "state": "Colorado",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Induction of tolerance to a Hybrid Insulin Peptide and the impact on autoreactive T cell fate and function in autoimmune diabetic islet transplant",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "29"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F32NS134617",
+   "obligation_doc": "FNS134617A",
+   "recipient": "BROWN UNIVERSITY",
+   "state": "Rhode Island",
+   "country": "UNITED STATES",
+   "action_date": "08/31/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Circadian Control of the VTA: Neural and BBB Dynamics",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "45"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI191952",
+   "obligation_doc": "FAI191952A",
+   "recipient": "SALK INSTITUTE FOR BIOLOGICAL STUDIES, SAN DIEGO, CALIFORNIA, THE",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Dissecting HIV Capsid Uncoating using Advanced Imaging and Cryo-Electron Tomography",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "30"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31HD114532",
+   "obligation_doc": "FHD114532A",
+   "recipient": "Regents of the University of Michigan",
+   "state": "Michigan",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Regulation of stress and depression by hormonal contraceptives",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "37"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01MH130578",
+   "obligation_doc": "RMH130578A001FS",
+   "recipient": "Trustees Of Columbia University In The City Of New York",
+   "state": "New York",
+   "country": "UNITED STATES",
+   "action_date": "08/26/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Resilient Emotion Regulation Development in a South African Birth Cohort",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "69"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "UH3NS127383",
+   "obligation_doc": "UNS127383B",
+   "recipient": "NORTHWESTERN UNIVERSITY",
+   "state": "Illinois",
+   "country": "UNITED STATES",
+   "action_date": "08/31/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Development of anti-LTBP4 as a biologic to treat Neuromuscular Diseases",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "88"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31HL178310",
+   "obligation_doc": "FHL178310A",
+   "recipient": "CHILDREN'S HOSPITAL CORPORATION",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Investigating cellular adaptation to one-carbon metabolism perturbation",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "39"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31HL170617",
+   "obligation_doc": "FHL170617A",
+   "recipient": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "state": "North Carolina",
+   "country": "UNITED STATES",
+   "action_date": "08/30/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Alternative splicing regulation of CLTC in the heart",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "38"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R21EB034798",
+   "obligation_doc": "REB034798A",
+   "recipient": "Massachusetts General Hospital, The",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Non-rotating nano-optic endoscope for 360 degree in vivo imaging",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "72"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31DK136254",
+   "obligation_doc": "FDK136254A",
+   "recipient": "EMORY UNIVERSITY",
+   "state": "Georgia",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Determining the role of Tet1 in facultative intestinal stem cells",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "34"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31GM154461",
+   "obligation_doc": "FGM154461A",
+   "recipient": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Quantifying the contribution of supracellular actomyosin networks during mouse neural tube closure",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "37"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI188661",
+   "obligation_doc": "FAI188661A",
+   "recipient": "DARTMOUTH COLLEGE",
+   "state": "New Hampshire",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "$30,610.00",
+   "expended": "$28,364.00",
+   "paid": "$28,364.00",
+   "unliquidated": "$2,246.00",
+   "title": "Hypoxia morphology of Aspergillus fumigatus impacts diagnostics",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "30"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R21NS130280",
+   "obligation_doc": "RNS130280A",
+   "recipient": "WINIFRED MASTERSON BURKE MEDICAL RESCH INSTITUTE, INC",
+   "state": "New York",
+   "country": "UNITED STATES",
+   "action_date": "08/29/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Role of SPARC in Wound Healing After Spinal Cord Injury",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "73"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01NS140765",
+   "obligation_doc": "RNS140765B",
+   "recipient": "WINIFRED MASTERSON BURKE MEDICAL RESCH INSTITUTE, INC",
+   "state": "New York",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Cross-talk between sarmoptosis and ferroptosis in hemorrhagic stroke",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "70"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31GM156078",
+   "obligation_doc": "FGM156078A",
+   "recipient": "UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CTR DALLAS",
+   "state": "Texas",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Mechanisms of Transcriptional Condensate Function during Cell State Transitions",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "37"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31DA056213",
+   "obligation_doc": "FDA056213A",
+   "recipient": "UNIVERSITY OF PITTSBURGH, THE",
+   "state": "Pennsylvania",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Astrocyte-mediated regulation of cocaine-generated synapses during cocaine seeking",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "31"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31HL170616",
+   "obligation_doc": "FHL170616A",
+   "recipient": "PENNSYLVANIA STATE UNIVERSITY, THE",
+   "state": "Pennsylvania",
+   "country": "UNITED STATES",
+   "action_date": "08/31/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "The Role of Thromboxane A2 in Vascular Regulation in Women with Endometriosis",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "38"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01MH136492",
+   "obligation_doc": "RMH136492B",
+   "recipient": "UNIVERSITY OF TEXAS AT AUSTIN",
+   "state": "Texas",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "SARS-CoV-2 and Social Determinants of Health Impact on Inflammation Associated Depression Risk (SSIDR)",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "69"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30AI169752",
+   "obligation_doc": "FAI169752A",
+   "recipient": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "state": "North Carolina",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "$27,324.00",
+   "expended": "$16,734.00",
+   "paid": "$16,734.00",
+   "unliquidated": "$10,590.00",
+   "title": "Spatial and molecular epidemiology of hepatitis B transmission in the Democratic Republic of the Congo",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "24"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01NS131420",
+   "obligation_doc": "RNS131420A",
+   "recipient": "WINIFRED MASTERSON BURKE MEDICAL RESCH INSTITUTE, INC",
+   "state": "New York",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "$617,978.00",
+   "expended": "$369,489.00",
+   "paid": "$369,489.00",
+   "unliquidated": "$248,489.00",
+   "title": "Molecular regulation over the decline in long- distance corticospinal axon regenerative ability during development",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "70"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30AI172364",
+   "obligation_doc": "FAI172364A",
+   "recipient": "UNIVERSITY OF FLORIDA",
+   "state": "Florida",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "$13,788.00",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "$13,788.00",
+   "title": "The Role of Norovirus Interactions with the Epithelial Barrier in Acute Gastroenteritis",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "24"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31DK137613",
+   "obligation_doc": "FDK137613A",
+   "recipient": "UNIVERSITY OF FLORIDA",
+   "state": "Florida",
+   "country": "UNITED STATES",
+   "action_date": "08/29/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Defining the Transcriptional Activity of NR2F6 in TH17 cells",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "34"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AI183523",
+   "obligation_doc": "FAI183523A",
+   "recipient": "DARTMOUTH COLLEGE",
+   "state": "New Hampshire",
+   "country": "UNITED STATES",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Characterizing Competition Between Virulent and Temperate Phages for Biofilm-Residing Host Bacteria",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "29"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01AI177143",
+   "obligation_doc": "RAI177143A",
+   "recipient": "GLAXOSMITHKLINE BIOLOGICALS",
+   "state": "-",
+   "country": "BELGIUM",
+   "action_date": "08/28/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Development of Robust and Low-cost Vaccines Against Salmonella Paratyphi A",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "55"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31HL174137",
+   "obligation_doc": "FHL174137A",
+   "recipient": "VANDERBILT UNIVERSITY",
+   "state": "Tennessee",
+   "country": "UNITED STATES",
+   "action_date": "08/27/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Cerebral oxygen extraction efficiency in patients with sickle cell anemia",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "39"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F31AG084241",
+   "obligation_doc": "FAG084241A",
+   "recipient": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+   "state": "North Carolina",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "The Proactive and Reactive Neuromechanics of Instability in Aging and Dementia with Lewy Bodies",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "27"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "K08HL177154",
+   "obligation_doc": "KHL177154A",
+   "recipient": "Massachusetts General Hospital, The",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "09/01/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Defining the mechanisms of injury resistance and role in restoring mucociliary transport of the airway hillock",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "48"
+  }
+ ],
+ "removed": [
+  {
+   "opdiv": "NIH",
+   "fain": "R15HD097589",
+   "obligation_doc": "RHD097589B",
+   "recipient": "LOYOLA UNIVERSITY OF CHICAGO",
+   "state": "Illinois",
+   "country": "UNITED STATES",
+   "action_date": "01/14/2026",
+   "obligated": "$686,106.46",
+   "expended": "$224,375.93",
+   "paid": "$224,375.93",
+   "unliquidated": "$461,730.53",
+   "title": "Spanish-speaking Latinos' Early Language Environments and Dual Language Development",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "69"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "K23HL171952",
+   "obligation_doc": "KHL171952A",
+   "recipient": "MEDICAL UNIVERSITY OF SOUTH CAROLINA THE",
+   "state": "South Carolina",
+   "country": "UNITED STATES",
+   "action_date": "08/21/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Testing a Strategy to Improve Diagnostic and Treatment Pathways for Children with Sleep- Disordered Breathing: the REPOSE Navigation Intervention",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "47"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "K12AR084230",
+   "obligation_doc": "KHD051959D",
+   "recipient": "BRIGHAM & WOMEN`S HOSPITAL",
+   "state": "Massachusetts",
+   "country": "UNITED STATES",
+   "action_date": "08/15/2025",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Hormones and Genes in Women's Health: From Bench to Bedside",
+   "termination_type": "Termination for Cause",
+   "for_cause": "X",
+   "source_page": "46"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R01HL131517",
+   "obligation_doc": "RHL131517B",
+   "recipient": "UNIVERSITY OF CALIFORNIA, DAVIS",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "06/10/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Quantifying the role of myocyte ultrastructure in atrial health and disease",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "62"
+  },
+  {
+   "opdiv": "HRSA",
+   "fain": "H8006449",
+   "obligation_doc": "25H80CS06449",
+   "recipient": "Pasadena Health Center",
+   "state": "Texas",
+   "country": "UNITED STATES",
+   "action_date": "06/26/2026",
+   "obligated": "$1,960,154.00",
+   "expended": "$1,960,154.00",
+   "paid": "$1,960,154.00",
+   "unliquidated": "-",
+   "title": "Health Center Program",
+   "termination_type": "Termination for Mutual Convenience",
+   "for_cause": "-",
+   "source_page": "23"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "F30AG081061",
+   "obligation_doc": "FAG081061B",
+   "recipient": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+   "state": "California",
+   "country": "UNITED STATES",
+   "action_date": "08/25/2026",
+   "obligated": "-",
+   "expended": "-",
+   "paid": "-",
+   "unliquidated": "-",
+   "title": "Alleviating Mitochondrial Dysfunction in PERK- deficient Neurodegenerative Disease",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "24"
+  },
+  {
+   "opdiv": "NIH",
+   "fain": "R35GM144129",
+   "obligation_doc": "RGM144129A",
+   "recipient": "UNIVERSITY OF WISCONSIN SYSTEM/BOARD OF REGENTS",
+   "state": "Wisconsin",
+   "country": "UNITED STATES",
+   "action_date": "08/21/2026",
+   "obligated": "$576,351.00",
+   "expended": "$562,656.00",
+   "paid": "$574,283.00",
+   "unliquidated": "$2,068.00",
+   "title": "SYNTHETIC PHOTOCHEMISTRY",
+   "termination_type": "Bilateral Termination",
+   "for_cause": "-",
+   "source_page": "76"
+  }
+ ],
+ "changed": [
+  {
+   "key": "NIH|F31HD111295|FHD111295A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$43,714.00",
+    "unliquidated": "$21,857.00"
+   },
+   "after": {
+    "obligated": "$26,657.00",
+    "unliquidated": "$4,800.00"
+   }
+  },
+  {
+   "key": "NIH|U19AI077439|UAI077439E",
+   "fields": [
+    "expended"
+   ],
+   "before": {
+    "expended": "$226,536.00"
+   },
+   "after": {
+    "expended": "$315,515.00"
+   }
+  },
+  {
+   "key": "NIH|F32NS140094|FNS140094A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$75,880.00",
+    "unliquidated": "$35,583.00"
+   },
+   "after": {
+    "obligated": "$45,041.00",
+    "unliquidated": "$4,744.00"
+   }
+  },
+  {
+   "key": "NIH|R01EY026635|REY026635B",
+   "fields": [
+    "expended"
+   ],
+   "before": {
+    "expended": "-"
+   },
+   "after": {
+    "expended": "$64,540.00"
+   }
+  },
+  {
+   "key": "NIH|F30MH124404|FMH124404A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$20,008.00",
+    "unliquidated": "$20,008.00"
+   },
+   "after": {
+    "obligated": "$19,029.00",
+    "unliquidated": "$19,029.00"
+   }
+  },
+  {
+   "key": "NIH|F31NS141322|FNS141322A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$50,114.00",
+    "unliquidated": "$34,561.00"
+   },
+   "after": {
+    "obligated": "$31,201.00",
+    "unliquidated": "$15,648.00"
+   }
+  },
+  {
+   "key": "NIH|F30AG085905|FAG085905A",
+   "fields": [
+    "obligated",
+    "expended",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$55,114.00",
+    "expended": "$36,917.00",
+    "unliquidated": "$18,197.00"
+   },
+   "after": {
+    "obligated": "$36,241.00",
+    "expended": "$36,241.00",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|K08DC020761|KDC020761A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$123,150.00",
+    "unliquidated": "$204.00"
+   },
+   "after": {
+    "obligated": "$122,946.00",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|F31HD114466|FHD114466A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$33,057.00",
+    "unliquidated": "$15,767.00"
+   },
+   "after": {
+    "obligated": "$25,390.00",
+    "unliquidated": "$8,100.00"
+   }
+  },
+  {
+   "key": "NIH|R01AG072756|RAG072756A",
+   "fields": [
+    "expended",
+    "paid",
+    "unliquidated"
+   ],
+   "before": {
+    "expended": "-",
+    "paid": "$21,872.00",
+    "unliquidated": "$548,171.00"
+   },
+   "after": {
+    "expended": "$58,215.00",
+    "paid": "$58,215.00",
+    "unliquidated": "$511,828.00"
+   }
+  },
+  {
+   "key": "NIH|F31DA064381|FDA064381A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$50,114.00",
+    "unliquidated": "$50,114.00"
+   },
+   "after": {
+    "obligated": "-",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|K01DK133670|KDK133670B",
+   "fields": [
+    "expended"
+   ],
+   "before": {
+    "expended": "$15,005.00"
+   },
+   "after": {
+    "expended": "$46,124.00"
+   }
+  },
+  {
+   "key": "NIH|F31NS137735|FNS137735A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$30,610.00",
+    "unliquidated": "$12,994.00"
+   },
+   "after": {
+    "obligated": "$25,716.00",
+    "unliquidated": "$8,100.00"
+   }
+  },
+  {
+   "key": "NIH|F32HD121257|FHD121257A",
+   "fields": [
+    "expended",
+    "paid",
+    "unliquidated"
+   ],
+   "before": {
+    "expended": "-",
+    "paid": "$10,285.00",
+    "unliquidated": "$69,015.00"
+   },
+   "after": {
+    "expended": "$11,000.00",
+    "paid": "$11,000.00",
+    "unliquidated": "$68,300.00"
+   }
+  },
+  {
+   "key": "NIH|R01AG072652|RAG072652B",
+   "fields": [
+    "expended",
+    "paid",
+    "unliquidated"
+   ],
+   "before": {
+    "expended": "-",
+    "paid": "$72,216.00",
+    "unliquidated": "$1,468,622.00"
+   },
+   "after": {
+    "expended": "$73,020.00",
+    "paid": "$73,020.00",
+    "unliquidated": "$1,467,818.00"
+   }
+  },
+  {
+   "key": "NIH|F31DE034609|FDE034609A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$39,239.00",
+    "unliquidated": "$23,606.00"
+   },
+   "after": {
+    "obligated": "$23,392.00",
+    "unliquidated": "$7,759.00"
+   }
+  },
+  {
+   "key": "NIH|F31DA064402|FDA064402A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$50,114.00",
+    "unliquidated": "$50,114.00"
+   },
+   "after": {
+    "obligated": "-",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|F31AG096952|FAG096952A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$53,114.00",
+    "unliquidated": "$53,114.00"
+   },
+   "after": {
+    "obligated": "-",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|F31NS134246|FNS134246A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$24,210.00",
+    "unliquidated": "$24,210.00"
+   },
+   "after": {
+    "obligated": "$19,316.00",
+    "unliquidated": "$19,316.00"
+   }
+  },
+  {
+   "key": "NIH|F31NS130942|FNS130942A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$12,163.00",
+    "unliquidated": "$12,163.00"
+   },
+   "after": {
+    "obligated": "$11,762.00",
+    "unliquidated": "$11,762.00"
+   }
+  },
+  {
+   "key": "NIH|F31AR082689|FAR082689A",
+   "fields": [
+    "obligated",
+    "expended",
+    "paid",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$48,514.00",
+    "expended": "$27,784.00",
+    "paid": "$14,704.00",
+    "unliquidated": "$20,730.00"
+   },
+   "after": {
+    "obligated": "$23,747.00",
+    "expended": "$23,747.00",
+    "paid": "$23,747.00",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|R01AG072641|RAG072641A",
+   "fields": [
+    "expended",
+    "paid",
+    "unliquidated"
+   ],
+   "before": {
+    "expended": "$1,272,055.00",
+    "paid": "$1,615,699.00",
+    "unliquidated": "$658,445.00"
+   },
+   "after": {
+    "expended": "$1,616,765.00",
+    "paid": "$1,616,765.00",
+    "unliquidated": "$657,379.00"
+   }
+  },
+  {
+   "key": "NIH|F31DC021614|FDC021614A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$50,114.00",
+    "unliquidated": "$50,114.00"
+   },
+   "after": {
+    "obligated": "$26,425.00",
+    "unliquidated": "$26,425.00"
+   }
+  },
+  {
+   "key": "NIH|F30OD032097|FOD032097A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$46,594.00",
+    "unliquidated": "$46,594.00"
+   },
+   "after": {
+    "obligated": "$20,351.00",
+    "unliquidated": "$20,351.00"
+   }
+  },
+  {
+   "key": "NIH|F31AA032187|FAA032187A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$41,359.00",
+    "unliquidated": "$28,609.00"
+   },
+   "after": {
+    "obligated": "$19,408.00",
+    "unliquidated": "$6,658.00"
+   }
+  },
+  {
+   "key": "NIH|F31DK136228|FDK136228A",
+   "fields": [
+    "expended",
+    "paid",
+    "unliquidated"
+   ],
+   "before": {
+    "expended": "$3,975.00",
+    "paid": "$3,975.00",
+    "unliquidated": "$12,292.00"
+   },
+   "after": {
+    "expended": "$6,422.00",
+    "paid": "$6,422.00",
+    "unliquidated": "$9,845.00"
+   }
+  },
+  {
+   "key": "NIH|F31DC022802|FDC022802A",
+   "fields": [
+    "obligated",
+    "expended",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$50,114.00",
+    "expended": "$28,304.00",
+    "unliquidated": "$21,069.00"
+   },
+   "after": {
+    "obligated": "$35,677.00",
+    "expended": "$29,045.00",
+    "unliquidated": "$6,632.00"
+   }
+  },
+  {
+   "key": "NIH|R01HD116300|RHD116300A",
+   "fields": [
+    "recipient",
+    "state"
+   ],
+   "before": {
+    "recipient": "DREXEL UNIVERSITY",
+    "state": "Pennsylvania"
+   },
+   "after": {
+    "recipient": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+    "state": "New Jersey"
+   }
+  },
+  {
+   "key": "NIH|K00DA064334|KNS129176B",
+   "fields": [
+    "expended",
+    "unliquidated"
+   ],
+   "before": {
+    "expended": "$22,437.00",
+    "unliquidated": "$67,302.00"
+   },
+   "after": {
+    "expended": "$18,449.00",
+    "unliquidated": "$71,290.00"
+   }
+  },
+  {
+   "key": "NIH|F31DC023142|FDC023142A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$50,114.00",
+    "unliquidated": "$50,114.00"
+   },
+   "after": {
+    "obligated": "$25,716.00",
+    "unliquidated": "$25,716.00"
+   }
+  },
+  {
+   "key": "NIH|F31MD018279|FMD018279A",
+   "fields": [
+    "recipient"
+   ],
+   "before": {
+    "recipient": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE"
+   },
+   "after": {
+    "recipient": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA"
+   }
+  },
+  {
+   "key": "NIH|F31ES036876|FES036876A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$37,430.00",
+    "unliquidated": "$32,381.00"
+   },
+   "after": {
+    "obligated": "$5,854.00",
+    "unliquidated": "$805.00"
+   }
+  },
+  {
+   "key": "NIH|F31HD114363|FHD114363A",
+   "fields": [
+    "expended"
+   ],
+   "before": {
+    "expended": "$13,148.00"
+   },
+   "after": {
+    "expended": "$16,226.00"
+   }
+  },
+  {
+   "key": "NIH|F30AI169748|FAI169748A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$55,114.00",
+    "unliquidated": "$21,919.00"
+   },
+   "after": {
+    "obligated": "$33,794.00",
+    "unliquidated": "$599.00"
+   }
+  },
+  {
+   "key": "NIH|F30OD031914|FOD031914A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$6,668.00",
+    "unliquidated": "$6,668.00"
+   },
+   "after": {
+    "obligated": "-",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|R35GM153228|RGM153228A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$387,508.00",
+    "unliquidated": "$387,508.00"
+   },
+   "after": {
+    "obligated": "-",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|F31MH139284|FMH139284A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$44,259.00",
+    "unliquidated": "$21,949.00"
+   },
+   "after": {
+    "obligated": "$31,500.00",
+    "unliquidated": "$9,190.00"
+   }
+  },
+  {
+   "key": "NIH|F31HD115296|FHD115296A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$43,042.00",
+    "unliquidated": "$43,042.00"
+   },
+   "after": {
+    "obligated": "$33,254.00",
+    "unliquidated": "$33,254.00"
+   }
+  },
+  {
+   "key": "NIH|F31HL170678|FHL170678A",
+   "fields": [
+    "recipient",
+    "state",
+    "action_date",
+    "termination_type"
+   ],
+   "before": {
+    "recipient": "ST. JUDE CHILDREN'S RESEARCH HOSPITAL GRADUATE SCHOOL OF BIOMEDICAL SCIENCES, LLC",
+    "state": "TENNESSEE",
+    "action_date": "06/13/2025",
+    "termination_type": "Departmental Authority"
+   },
+   "after": {
+    "recipient": "St. Jude Children's Research Hospital Graduate School o",
+    "state": "Tennessee",
+    "action_date": "06/16/2025",
+    "termination_type": "Bilateral Termination"
+   }
+  },
+  {
+   "key": "NIH|R03HD120505|RHD120505A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$281,114.00",
+    "unliquidated": "$281,114.00"
+   },
+   "after": {
+    "obligated": "-",
+    "unliquidated": "-"
+   }
+  },
+  {
+   "key": "NIH|K99EB039138|KEB039138A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$120,393.00",
+    "unliquidated": "$120,393.00"
+   },
+   "after": {
+    "obligated": "$1.00",
+    "unliquidated": "$1.00"
+   }
+  },
+  {
+   "key": "NIH|F32HL170536|FHL170536A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$79,348.00",
+    "unliquidated": "$57,637.00"
+   },
+   "after": {
+    "obligated": "$24,412.00",
+    "unliquidated": "$2,701.00"
+   }
+  },
+  {
+   "key": "NIH|F31MH132471|FMH132471A",
+   "fields": [
+    "obligated",
+    "expended",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$55,114.00",
+    "expended": "$17,579.00",
+    "unliquidated": "$35,600.00"
+   },
+   "after": {
+    "obligated": "$33,163.00",
+    "expended": "$19,514.00",
+    "unliquidated": "$13,649.00"
+   }
+  },
+  {
+   "key": "NIH|F31NS139696|FNS139696A",
+   "fields": [
+    "obligated",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$50,114.00",
+    "unliquidated": "$34,291.00"
+   },
+   "after": {
+    "obligated": "$25,322.00",
+    "unliquidated": "$9,499.00"
+   }
+  },
+  {
+   "key": "NIH|F32AG085960|FAG085960A",
+   "fields": [
+    "obligated",
+    "expended",
+    "unliquidated"
+   ],
+   "before": {
+    "obligated": "$82,048.00",
+    "expended": "$43,105.00",
+    "unliquidated": "$38,943.00"
+   },
+   "after": {
+    "obligated": "$42,374.00",
+    "expended": "$35,244.00",
+    "unliquidated": "$7,130.00"
+   }
+  }
+ ],
+ "against": "2026-09-04.csv",
+ "sha256": "9a2fa4a75b478d719e9c17765318f015e678456507051b97cc67e03f8bf9f581"
+}
